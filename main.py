@@ -1,3 +1,2 @@
-print("A")
-print("B")
-print("C")
+msg = "Hello World"
+print(msg)
