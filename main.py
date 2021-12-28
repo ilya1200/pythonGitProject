@@ -1,1 +1,3 @@
-print("Conflict")
+print("A")
+print("B")
+print("C")
